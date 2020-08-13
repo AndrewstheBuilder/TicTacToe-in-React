@@ -1,6 +1,8 @@
 # Tictactoe Game made using React
 Build with help from React tutorials: https://reactjs.org/tutorial/tutorial.html
 
+![image](https://user-images.githubusercontent.com/51387040/90174249-ae17e300-dd73-11ea-9cf8-a73c61179bd9.png)
+
 ## Features I added
     1. Instead of Xs and Os. I added a picture of my professors: Dr. Faizian and Dr. Jethwani.
     2. Changed the border, board, and background styles.
