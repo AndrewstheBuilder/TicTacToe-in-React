@@ -10,7 +10,7 @@ Build with help from React tutorials: https://reactjs.org/tutorial/tutorial.html
 ## How to Run
     1. Download the project
     2. cd into the folder with this project.
-    3. Run the command ` npm start `
+    3. Run the command ### `npm start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
