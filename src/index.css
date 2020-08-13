@@ -1,0 +1,75 @@
+body {
+  background-color: lightcoral;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+  color: black;
+}
+
+.square {
+  background: yellowgreen;
+  border: 2px solid black;
+  display: inline-flex;
+  line-height: 34px;
+  height: 64px;
+  margin-right: -5px;
+  margin-top: -5px;
+  padding: 0;
+  width: 64px;
+}
+
+.square .highlight {
+  background: white;
+}
+
+.square .winner {
+    background: white;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.kbd-navigation .square:focus {
+  background: #ddd;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+  padding-top: 5%;
+  padding-left: 38%;
+}
+
+.game-info {
+  margin-left: 20px;
+}
+
+
+nav {
+  text-align: left;
+  background-color: lightblue;
+  padding-bottom: 2%;
+}
+
+#heading {
+  font-weight: bold;
+  margin-bottom: 0;
+  font-size: 42px;
+  color: black;
+}
+
+.p-2 {
+  margin-left: 35px;
+}
