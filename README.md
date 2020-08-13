@@ -1,4 +1,4 @@
-# Tictactoe made using React
+# Tictactoe Game made using React
 Build with help from React tutorials: https://reactjs.org/tutorial/tutorial.html
 
 ## Features I added
