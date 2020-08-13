@@ -1,3 +1,17 @@
+# Tictactoe made using React
+Build with help from React tutorials: https://reactjs.org/tutorial/tutorial.html
+
+## Features I added
+    1. Instead of Xs and Os. I added a picture of my professors: Dr. Faizian and Dr. Jethwani.
+    2. Changed the border, board, and background styles.
+    3. Added a navigation bar.
+    4. When there is a tie game a message is displayed.
+    
+## How to Run
+    1. Download the project
+    2. cd into the folder with this project.
+    3. Run the command `npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
