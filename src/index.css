@@ -20,7 +20,7 @@ ol, ul {
 .square {
   background: yellowgreen;
   border: 2px solid black;
-  display: inline-flex;
+  float: left;
   line-height: 34px;
   height: 64px;
   margin-right: -5px;
@@ -45,8 +45,9 @@ ol, ul {
   background: #ddd;
 }
 
+/*the game's steps */
 .game {
-  display: flex;
+  display: block;
   flex-direction: row;
   padding-top: 5%;
   padding-left: 38%;
@@ -70,6 +71,7 @@ nav {
   color: black;
 }
 
-.p-2 {
-  margin-left: 35px;
+img {
+  height: 60px;
+  width: 60px;
 }
