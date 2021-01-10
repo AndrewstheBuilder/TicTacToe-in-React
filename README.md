@@ -1,5 +1,5 @@
 # Tictactoe Game made using React
-Build with help from React tutorials: https://reactjs.org/tutorial/tutorial.html
+Built with help from React tutorials: https://reactjs.org/tutorial/tutorial.html
 
 Play it here: https://trusting-morse-29d736.netlify.app
 
